@@ -1,0 +1,19 @@
+# This repository is public-facing documentation only.
+*.exe
+*.zip
+*.pck
+*.avi
+*.mp4
+*.gd
+*.gd.uid
+*.tscn
+*.tres
+project.godot
+export_presets.cfg
+.godot/
+.env*
+scripts/
+scenes/
+assets/
+build/
+tests/
