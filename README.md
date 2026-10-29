@@ -1,84 +1,74 @@
 # Mimo & the Bloombop
 
-### Geçmişinle yol aç. Bahçeye sabahı geri getir.
+### Record your past. Open a new path. Bring morning home.
 
-![Mimo, Sprig ve Lumi'nin orman menüsü](media/menu.png)
+![Mimo, Sprig, and Lumi at the forest menu](media/menu.png)
 
-**Windows · Tek oyunculu · Türkçe / English · Klavye ve oyun kumandası**
+**Windows · Single-player · English / Turkish · Keyboard and controller**
 
-Mimo'nun hareketlerini kaydet; yankıların anahtarları ve asansörleri çalıştırırken yeni yollar aç. Sprig'in serasına suyu geri getir, unutulan hatıraları bul ve Diken Hükümdarı'nın mührünü kır.
+Record Mimo's movements and let the echoes operate switches and lifts to open new paths. Bring water back to Sprig's greenhouse, uncover forgotten memories, and break the Thorn Sovereign's seal.
 
-## İndir ve oyna
+[English](README.md) · [Türkçe](README.tr.md)
 
-**[Oyun ZIP'ini indir](../../releases/latest/download/Mimo-and-the-Bloombop-Windows.zip)** · **[Tüm yayınlar](../../releases)** · **[Tanıtım videosu — MP4](../../releases/latest/download/Mimo-Showcase.mp4)**
+## Download and play
 
-1. `Mimo-and-the-Bloombop-Windows.zip` dosyasını indir.
-2. ZIP'in tamamını bir klasöre çıkart.
-3. `Mimo-and-the-Bloombop.exe` dosyasını çalıştır. Godot kurman gerekmez.
-4. Ana menüden dili seç; **Hikâyeye Başla** öğreticiyi açar.
+**[Download the Windows game ZIP](../../releases/latest/download/Mimo-and-the-Bloombop-Windows.zip)** · [All releases](../../releases) · [Gameplay showcase — MP4](../../releases/latest/download/Mimo-Showcase.mp4)
 
-GitHub'ın otomatik oluşturduğu **Source code (zip)** indirmesi oyun değildir. Yukarıdaki oyun ZIP'ini kullan.
+1. Download <code>Mimo-and-the-Bloombop-Windows.zip</code>.
+2. Extract the entire ZIP to a folder.
+3. Launch <code>Mimo-and-the-Bloombop.exe</code>. You do not need to install Godot.
+4. Choose a language from the main menu. **Start Story** opens the tutorial.
 
-Dağıtım dijital olarak imzalı değildir. Windows uyarı gösterebilir; güvenlik yazılımını kapatma. Dosyanın kaynağını ve yayındaki `SHA256SUMS.txt` sağlama toplamını kontrol et. Dosya engellenirse hata bildir.
+GitHub's automatically generated **Source code (zip)** archive is not the game. Use the game ZIP linked above.
 
-## Seni neler bekliyor?
+The build is not digitally signed, so Windows may show a warning. Keep your security software enabled. Check the file's source and the <code>SHA256SUMS.txt</code> checksum published with the release. Report a problem if Windows blocks the file.
 
-- **Birlikte çalışan yankılar:** kayıtlı hareketlerin düğmeleri ve şalterleri yeniden çalıştırır.
-- **Değişen bahçeler:** asansör, mantar, yerçekimi, anahtar ve sera bulmacaları.
-- **Bir amaç:** Mimo, Sprig ve Lumi ile donmuş evinize sabahı geri getirmek.
-- **Diken Hükümdarı:** üç fazlı dövüş, beş saldırı deseni, kılıç, savuşturma ve atılma.
-- **Kendi hızını seç:** hikâye yolculuğu, isteğe bağlı hatıralar ve açılan bölümlerde hız koşuları.
-- **Erişilebilirlik:** azaltılmış hareket, yankı kontrastı ve ayrı ses ayarları.
+## What to expect
 
-### Oyun içinden
+- **Echoes that work together:** recorded movements operate buttons and switches.
+- **Changing gardens:** puzzles with lifts, mushrooms, gravity, keys, and a greenhouse.
+- **A clear goal:** help Mimo, Sprig, and Lumi bring morning back to their frozen home.
+- **The Thorn Sovereign:** a three-phase fight with five attack patterns, a sword, parrying, and dashing.
+- **Play at your pace:** follow the story, find optional memories, or speedrun unlocked chapters.
+- **Accessibility options:** reduced motion, echo contrast, and separate audio settings.
 
-![Sera çarkları ve doğayla uyumlu piksel harita](media/greenhouse.png)
+### In-game scenes
 
-![Diken Hükümdarı ile gerçek oyun içi dövüş](media/boss.png)
+![Greenhouse wheel puzzles and a nature-inspired pixel-art map](media/greenhouse.png)
 
-**[37 saniyelik oynanış videosunu izle/indir](../../releases/latest/download/Mimo-Showcase.mp4)** — oyun sesleriyle kaydedilmiş ve kurgulanmış görüntüler; finalden kesit içerir. Kayıtta karakter otomatik girişlerle yönetilmiştir; boss hasarı ve mekanikler oyunun kendi sistemleridir.
+![Gameplay footage of the fight against the Thorn Sovereign](media/boss.png)
 
-## Kontroller
+**[Watch or download the 37-second gameplay showcase](../../releases/latest/download/Mimo-Showcase.mp4)** — edited footage recorded with game audio; includes an ending excerpt. The character was controlled with automated inputs during recording; boss damage and mechanics use the game's own systems.
 
-| İşlem | Klavye |
+## Controls
+
+| Action | Keyboard |
 | --- | --- |
-| Hareket | A/D veya yön tuşları |
-| Zıplama | Space |
-| Yankı kaydetme | E |
-| Yakındaki şalter / çark | F |
-| Bağlamsal ipucu | H |
-| Bölümü yeniden deneme | R |
-| Duraklatma | Esc |
-| Boss: kılıç / savuşturma | X veya J |
-| Boss: atılma | Space |
-| Boss: alıştırma / desen seçimi | F3 / F4 |
+| Move | A/D or arrow keys |
+| Jump | Space |
+| Record an echo | E |
+| Nearby switch / wheel | F |
+| Contextual hint | H |
+| Retry the room | R |
+| Pause | Esc |
+| Boss: sword / parry | X or J |
+| Boss: dash | Space |
+| Boss: practice / pattern selection | F3 / F4 |
 
-Kumanda kontrolleri oyun içinde gösterilir. Boss alıştırması hikâyeyi tamamlamaz; rahat boss modu hız koşusunda yardımlı olarak işaretlenir.
+Controller controls are shown in-game. Boss practice does not complete the story; assisted boss mode is marked as assisted in speedruns.
 
-## Uyumluluk ve kayıt
+## Compatibility and save data
 
-Windows x64 sürümüdür. Vulkan destekli ekran kartı/sürücü gerekir. Test bilgisayarında NVIDIA RTX 2060 SUPER kullanılmıştır; bu bir minimum sistem gereksinimi iddiası değildir. Diğer donanımlarda performans garantisi verilmez.
+This is a Windows x64 build and requires a Vulkan-capable graphics card and driver. An NVIDIA RTX 2060 SUPER was used on the test machine; this is not a minimum system requirement. Performance on other hardware is not guaranteed.
 
-İlerleme ve ayarlar yerel olarak `%APPDATA%\Godot\app_userdata\Mimo & the Bloombop` altında tutulur. Oyunu güncellerken bu klasörü silme. [Gizlilik](PRIVACY.md)
+Progress and settings are stored locally under <code>%APPDATA%\Godot\app_userdata\Mimo &amp; the Bloombop</code>. Do not delete this folder when updating the game. See [Privacy](PRIVACY.md).
 
-## Hata bildir
+## Report a problem
 
-[Issues bölümünden](../../issues) bölüm/oda numarasını, sorunu tekrar oluşturma adımlarını, ekran görüntüsünü ve Windows/ekran kartı bilgilerini paylaş. Şifre, erişim anahtarı veya kişisel dosya gönderme.
+Use [Issues](../../issues) to share the chapter/room number, reproduction steps, a screenshot, and your Windows and graphics-card details. Do not send passwords, access keys, or personal files.
 
-15 ana bölüm rotası ve 42 ara oda yerleşimi otomatik fizik testlerinden geçti. Bu, her cihazda tüm hataların bulunmuş olduğu anlamına gelmez. [Bilinen durumlar](KNOWN_ISSUES.md)
+The 15 main chapter routes and 42 inter-room layouts passed automated physics checks. This does not mean every bug has been found on every device. See [Known issues](KNOWN_ISSUES.md).
 
-## Açık kaynak değildir
+## Distribution and copyright
 
-Bu depo yalnızca **oyuncular için dağıtım ve tanıtım sayfasıdır**. Godot projesi, oyun betikleri ve düzenlenebilir varlıklar paylaşılmaz. Oyunun ücretsiz indirilebilmesi açık kaynak lisansı verildiği anlamına gelmez. [Kullanım bildirimi](COPYRIGHT.md) · [Katkılar ve üçüncü taraf lisansları](CREDITS.md)
-
----
-
-## English
-
-**Record your past. Open a new path. Bring morning home.**
-
-Mimo & the Bloombop is a single-player pixel-art echo-puzzle adventure with a story, greenhouse puzzles, moving lifts, optional collectibles, speedrun routes and a three-phase boss encounter.
-
-[Download the Windows game ZIP](../../releases/latest/download/Mimo-and-the-Bloombop-Windows.zip), extract it and launch `Mimo-and-the-Bloombop.exe`. Select **English** in the menu. No Godot installation is needed. The build is unsigned; keep your security software enabled and verify the published SHA-256 checksum.
-
-This is a **binary distribution repository, not an open-source project**. GitHub's automatic “Source code” archives contain this showcase page, not the playable game. [Watch/download the gameplay showcase](../../releases/latest/download/Mimo-Showcase.mp4) (ending spoilers).
+This repository is a **distribution and showcase page for players**. It does not include the Godot project, game scripts, or editable assets. A free download does not grant an open-source license. See the [usage notice](COPYRIGHT.md) and [credits and third-party licenses](CREDITS.md).
